@@ -656,7 +656,7 @@ const Data = [
       image: "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg",
       description:
         "Peaceful negotiations in Kashmir result in historic agreement, promising a brighter future for the region.",
-      cat: "Latest",
+      cat: "Top News",
     },
     {
       id: 65,
@@ -665,7 +665,7 @@ const Data = [
       image: "https://images.pexels.com/photos/5949177/pexels-photo-5949177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       description:
         "Ganesh Chaturthi is a Hindu festival celebrating the birth of Lord Ganesha, featuring idol installations and rituals.",
-      cat: "Latest",
+      cat: "Top News",
     },
     {
       id: 66,
@@ -674,7 +674,7 @@ const Data = [
       image: "https://images.pexels.com/photos/406152/pexels-photo-406152.jpeg?auto=compress&cs=tinysrgb&w=600",
       description:
         "Salad: Fresh mix of veggies, fruits, and dressings; healthy, versatile, and enjoyed as appetizer or main..",
-      cat: "Latest",
+      cat: "Top News",
     },
 
   ];
